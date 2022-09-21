@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=PedroFaria&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Gabriel;I'm+21+years+old;I'm+from+Brasil,+PR;I+study+software+engineering+at+UTFPR-CP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Gabriel;I'm+21+years+old;I'm+from+Brasil,+PR;I+study+Systems+ Analyst+at+UTFPR-CP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroFaria06&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Faria github stats" /> 
@@ -35,7 +35,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luisinh077}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroFaria06}/count.svg" /></p> 
 <br></div>
   
 
