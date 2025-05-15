@@ -6,13 +6,13 @@ Neste repositório irão encontrar exemplos de :
 
 • Modelagem relacional e dimensional; 
 
-• Integração e orquestração (ETL e ELT)
+• Integração e orquestração (ETL e ELT);
 
 • Padrões de documentação visando apresentação do projeto e governança de dados; 
 
 • Dashboards;
 
-• Scripts Python para definição (DDL) e manipulação (DML) de dados
+• Scripts Python para definição (DDL) e manipulação (DML) de dados;
 
 # Skills
 SQL | Python |  Power BI  | Databricks | Git | Data Warehouse (DW) | Data Lake | Data Lakehouse | Governança de dados | PySpark
