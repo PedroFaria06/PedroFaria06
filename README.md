@@ -9,7 +9,8 @@ Neste repositório irão encontrar exemplos de :
 • Integração e orquestração (ETL e ELT)
 
 • Padrões de documentação visando apresentação do projeto e governança de dados; 
-Dashboards;
+
+• Dashboards;
 
 • Scripts Python para definição (DDL) e manipulação (DML) de dados
 
