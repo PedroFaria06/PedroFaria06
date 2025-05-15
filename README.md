@@ -4,11 +4,15 @@ Sou movido pela missão de transformar dados complexos em soluções simples, cl
 
 Neste repositório irão encontrar exemplos de :
 
-• Modelagem relacional e dimensional;
+• Modelagem relacional e dimensional; 
+
 • Integração e orquestração (ETL e ELT)
+
 • Padrões de documentação visando apresentação do projeto e governança de dados; 
 Dashboards;
+
 • Scripts Python para definição (DDL) e manipulação (DML) de dados
+
 # Skills
 SQL | Python |  Power BI  | Databricks | Git | Data Warehouse (DW) | Data Lake | Data Lakehouse | Governança de dados | PySpark
 #Vagas de interesse
